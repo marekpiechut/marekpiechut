@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Marek 👋
 
-<!--
-**marekpiechut/marekpiechut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="img/x.svg" width="30px" height="30px">](https://x.com/marekpiechut)
+[<img src="img/linkedin.svg" width="32px" height="32px">](https://www.linkedin.com/in/marekpiechut/)
 
-Here are some ideas to get you started:
+Software builder and weird keyboards user️ ⌨️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Writing at [marekpiechut.github.io](https://marekpiechut.github.io)
+
+Building [LambdaQueue](https://lambdaqueue.com) ↠ Queues and Schedules for serverless.
+
+Typing on a 40% ortholinear keyboard designed by myself.
+
+### Latest open source
+
+- [PGQueue](https://github.com/marekpiechut/pgqueue) - Multi-tenant, scalable queue and schedule library on Postgresql for Node.js/Bun
+- [TinySession](https://github.com/marekpiechut/tiny-session) - A small session library for Cloudflare Workers
+- [Evolutions](https://github.com/marekpiechut/evolutions) - SQL evolutions library for Node.js/Bun
