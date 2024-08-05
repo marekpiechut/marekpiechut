@@ -11,8 +11,9 @@ Building [LambdaQueue](https://lambdaqueue.com) ↠ Queues and Schedules for ser
 
 Typing on a 40% ortholinear keyboard designed by myself.
 
-### Latest open source
+### Interesting projects
 
 - [PGQueue](https://github.com/marekpiechut/pgqueue) - Multi-tenant, scalable queue and schedule library on Postgresql for Node.js/Bun
 - [TinySession](https://github.com/marekpiechut/tiny-session) - A small session library for Cloudflare Workers
 - [Evolutions](https://github.com/marekpiechut/evolutions) - SQL evolutions library for Node.js/Bun
+- [TypingTool](https://typingtool.app) - Learn to touch-type by rewriting classic novels
